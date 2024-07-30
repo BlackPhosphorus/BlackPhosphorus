@@ -1,1 +1,1 @@
-Hi, my name is Ashish. I'm currently a high school student interested in the mathematics of asset management, using probabilistic and other statistical methods of trading, and algorithmic trading as whole. I also do random hackathons for fun.
+Hi, my name is Ashish. I'm currently a high school student interested in applying statistics to sports betting and blackjack, applying  probabilistic/statistical methods to equities and derivatives, and algorithmic trading as a whole. I also do random hackathons for fun.
