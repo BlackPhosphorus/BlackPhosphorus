@@ -1,1 +1,1 @@
-Hi, my name is Ashish. I'm currently a high school student interested in applying statistics to sports betting and blackjack, applying statistics and ML to equities and derivatives, and algorithmic trading as a whole. I also do random hackathons for fun.
+Hi, my name is Ashish. I'm currently a high school student interested in using math to crack sports betting and blackjack, applying probability/statistics and ML to equities and derivatives, and algorithmic trading as a whole. I also do random hackathons for fun.
