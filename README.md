@@ -1,1 +1,1 @@
-Hi, my name is Ashish. I'm currently a student interested in using math to gain an edge in sports betting and blackjack, applying probability/statistics and ML to equities and derivatives, and algorithmic trading as a whole. I also do random hackathons for fun.
+Hi, my name is Ashish. I'm currently a college student at NYU interested in using math to gain an edge in sports betting and blackjack, applying probability/statistics and ML to equities and derivatives, and algorithmic trading as a whole. I also do random hackathons for fun.
